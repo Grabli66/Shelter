@@ -1,0 +1,14 @@
+{
+    "Connection" : {
+        "Host" : "local",
+        "Port" : 3369
+    },
+    "Timestamp" : 123456789.123456789,
+    "Credentials" : {
+        "Login" : "user",
+        "Password" : "1234"
+    },
+    "Array" : [1, "GOOD", 3.2, {
+        "Name" : "John"
+    }]
+}

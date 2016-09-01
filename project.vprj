@@ -1,0 +1,13 @@
+{
+    "Name" : "ProjectName",
+    "Description" : "Project description",
+    "Version" : "0.1",
+    "ProjectType" : "library",
+    "Source" : ["./Source"],
+    "Tests" : "./Tests",
+    "OutPath" : "./Bin",
+    "Dependency" : [
+        "lib://gee-0.8",
+        "lib://json-glib-1.0"
+    ]
+}
